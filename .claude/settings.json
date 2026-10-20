@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "creative-architect": {
+      "source": {
+        "source": "github",
+        "repo": "Hainrixz/creative-architect"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "creative-architect@creative-architect": true
+  }
+}
